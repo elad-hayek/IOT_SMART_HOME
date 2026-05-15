@@ -1,0 +1,4 @@
+# requirements.txt - Python package dependencies
+paho-mqtt==1.6.1
+PyQt5==5.15.7
+pandas==1.5.3

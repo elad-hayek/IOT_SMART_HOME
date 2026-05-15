@@ -1,0 +1,33 @@
+# .gitignore - Git ignore file
+# Database
+db/smart_home.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
