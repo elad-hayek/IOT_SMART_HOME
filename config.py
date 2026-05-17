@@ -126,6 +126,6 @@ def log_config():
     print(f"Temperature Thresholds: {TEMP_WARNING_HIGH}°C (warn) - {TEMP_ALERT_HIGH}°C (alert)")
     print(f"{'='*60}\n")
 
-# Print config on import (optional - comment out if too verbose)
+# Print config on import 
 if __name__ != '__main__':
-    pass  # Silently load configuration
+    pass 
